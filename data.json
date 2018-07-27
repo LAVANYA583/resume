@@ -1,8 +1,26 @@
 {
 	"details":{
         "name":"lavanya",
-        "image":"image.png",
+        "image":"download.jpg",
         "phone":"7856493428",
         "email":"lavanyasikhakolli123@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college of technology",
+            "percentage":"80%"
+		},
+		{
+		"course":"Intermediate(MPC)",
+			"college":"govindambica college",
+            "percentage":"97%"
+	},
+	{
+		"course":"SSC",
+			"college":"Nagarjuna high school",
+            "percentage":"97%"
 	}
+]
 }
+
