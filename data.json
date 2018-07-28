@@ -1,9 +1,9 @@
 {
 	"details":{
-        "name":"lavanya",
-        "image":"download.jpg",
+        "name":"lavanya.s",
+        "image":"image.png",
         "phone":"7856493428",
-        "email":"lavanyasikhakolli123@gmail.com"
+        "email":"lavanyasikhakolli@gmail.com"
 	},
 	"education":[
 		{
@@ -21,6 +21,21 @@
 			"college":"Nagarjuna high school",
             "percentage":"97%"
 	}
-]
+],
+	"skills":[
+         {
+         	"title":"programming languages",
+         	"output":["c","c++","python","java"]
+         },
+         {
+         	"title":"operating system",
+         	"output":[
+         		"windows","linux","MAC"
+         	]
+         }
+	],
+	"career":{
+		"co":"To associate with organization and utilize my technical knowledge and To improve my skills "
+	}
 }
 
