@@ -40,7 +40,7 @@ var right=document.createElement("div");
 right.classList.add("right");
 main.appendChild(right);
 function edu(education){
-	var e=document.createElement("h1");
+	var e=document.createElement("h2");
 	e.textContent="Education details";
 	right.appendChild(e);
 	e.appendChild(document.createElement("HR"));
@@ -48,7 +48,7 @@ var un=document.createElement("ul");
 e.appendChild(un);
 
 for (var i = 0; i < education.length; i++) {
-	   var l=document.createElement("h2");
+	   var l=document.createElement("h3");
         l.textContent=education[i].course;
         un.appendChild(l);
         //un.appendChild(document.createElement("HR"));
@@ -64,7 +64,7 @@ function skill(skilldata) {
 	var s=document.createElement("div");
 	s.classList.add("sset");
 	right.appendChild(s);
-	var head=document.createElement("h2");
+	var head=document.createElement("h3");
 	head.textContent="skills set";
 	s.appendChild(head);
     //s.appendChild(document.createElement("HR"));
